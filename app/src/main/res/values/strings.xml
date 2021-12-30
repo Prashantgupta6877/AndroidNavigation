@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidNavigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="first_blank_fragment">Hello First fragment</string>
+    <string name="second_blank_fragment">Hello Second fragment</string>
+    <string name="third_blank_fragment">Hello Third fragment</string>
+    <string name="home">Home</string>
+    <string name="self_improvement">Self Improvement</string>
+    <string name="settings">Settings</string>
+</resources>
